@@ -193,7 +193,7 @@ height="4.194444444444445in"}
 
 *Link between metadata.xml and table1.xml*
 
-## Mapping
+# Mapping
 
 ### URI conventions
 
