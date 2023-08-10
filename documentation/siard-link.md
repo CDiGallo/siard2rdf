@@ -23,7 +23,7 @@ the school situation in Switzerland in the Helvetic Republic from 1799.
 MySQL-Dump:
 [https://opendata.swiss/de/dataset/stapfer-enquete-schule-in-der-schweiz-1799](https://opendata.swiss/de/dataset/stapfer-enquete-schule-in-der-schweiz-1799)
 
-## Creating SIARD from MySQL databases
+### Creating SIARD from MySQL databases
 
 The goal is to create a SIARD-File out of a MySQL database schema.
 
@@ -61,7 +61,7 @@ The DBPTK can also visualize SIARD files:
 ![](media/image7.png){width="6.267716535433071in"
 height="5.069444444444445in"}
 
-## Structure of SIARD files
+### Structure of SIARD files
 
 A SIARD file contains two folders:
 
@@ -81,7 +81,7 @@ height="5.180555555555555in"}
 
 *SIARD 2.2 (2021), p. 17*
 
-## Structure in RDF
+### Structure in RDF
 
 For the mapping of SIARD to RDF the information in metadata.xml and in
 the XML files of the various tables has to be combined.
